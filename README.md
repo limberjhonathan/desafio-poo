@@ -1,4 +1,4 @@
-### Diagrama UML (Mermaid)
+### Diagrama UML
 ```mermaid
 classDiagram
     class ReprodutorMusical {
